@@ -1,9 +1,23 @@
 body{
     background-color: rgb(124, 203, 255);
 }
-.board{
-    margin: 50px 0 0 20px;
+.welcome{
+    color: rgb(255, 0, 128);
+    font-weight:bolder;
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 1%;
 }
+.ideas{
+    color:rgb(255, 0, 128);
+    font-weight:bolder;
+    font-family: Helvetica, Arial, sans-serif;
+    padding-left: 20px;
+}
+li{
+    color:black;
+}
+.board{
+    margin: 50px 60px 60px 150px;}
 .row{
     width: 100%;
     height: 50px;
@@ -31,7 +45,32 @@ button{
     border-radius: 20%;
 }
 .tab{
-    width: 95px;
+    width: 99px;
+}
+.caps{
+    width: 100px;
+}
+.enter{
+    width: 125px;
+}
+.shift{
+    width: 112px;
+}
+.ctrl{
+    width: 80px;
+}
+.alt{
+    width: 60px;
+}
+.space{
+    width: 269px;
+}
+.gamer{
+    background-color: lime;
+    color: black;
+    border-radius: 100%;
+    outline-style:outset;
+    outline-color: red;
 }
 a:link{
     color:rgb(0, 255, 255);
