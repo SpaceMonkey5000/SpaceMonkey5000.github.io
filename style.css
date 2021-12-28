@@ -1,6 +1,15 @@
 body{
     background-color: rgb(124, 203, 255);
 }
+.textbox{
+    padding: 1%;
+    text-align: center;
+    background-color: rgb(179, 255, 255);
+    margin-left: 12%;
+    width: 69%;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .welcome{
     color: rgb(255, 0, 128);
     font-weight:bolder;
